@@ -1,0 +1,7 @@
+./resultreadwrite
+Data writen by the writer0 is 1
+Data read by the reader0 is 1
+Data read by the reader1 is 1
+Data read by the reader2 is 1
+Data writen by the writer1 is 2
+Data writen by the writer2 is 3
