@@ -1,4 +1,6 @@
-./resultreadwrite
+~$ gcc 19BCE2145_Nupoorraj.c -o resultreadwrite -lpthread
+
+~$ ./resultreadwrite
 Data writen by the writer0 is 1
 Data read by the reader0 is 1
 Data read by the reader1 is 1
